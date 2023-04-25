@@ -1,0 +1,4 @@
+Banana|5|Frutas|Bruno|MArcos|3|25/$m/$Y
+Banana|5|Frutas|Bruno|MArcos|3|25/$m/$Y
+Banana|5|Frutas|Bruno|MArcos|3|25/ $m /$Y
+Banana|5|Frutas|Bruno|MArcos|3|25/04/2023
